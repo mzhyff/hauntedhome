@@ -1,0 +1,4 @@
+repository "home_2021@mzhyff@cloud"
+  path "/"
+    br "/main"
+    co "/main"
